@@ -6,10 +6,10 @@
 
 ## My Projects
 - iSecure (Full stack React Authentication): [https://github.com/lakshyaraj2006/react-express-authentication](https://github.com/lakshyaraj2006/react-express-authentication)
+- MstryMessage (Anonymous Messaging Project): [https://github.com/lakshyaraj2006/react-express-authentication](https://github.com/lakshyaraj2006/mstrymessage)
 
 ## Learning:
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## My Skills
 - Databases: 
@@ -31,6 +31,7 @@
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 
 - Backend:
