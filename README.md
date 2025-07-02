@@ -1,76 +1,72 @@
 # 👋 Hello, I'm Lakshyaraj Dash!
 
-![Lakshyaraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakshyaraj2006&hide=contribs,prs)
+![Typing](https://readme-typing-svg.herokuapp.com?font=MonoLisa&letterSpacing=&duration=2000&pause=800&width=435&lines=Frontend+Developer;Backend+Developer;Fullstack+Web+Developer;NoSQL+and+SQL+Databases;Authentication+and+Authorization;Version+Control)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyaraj2006)](https://github.com/anuraghazra/github-readme-stats)
+![Lakshyaraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakshyaraj2006&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyaraj2006&layout=compact&theme=dark&languages=false)
+
+[![Lakshyaraj's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lakshyaraj2006&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Projects
 - iSecure (Full stack React Authentication): [https://github.com/lakshyaraj2006/react-express-authentication](https://github.com/lakshyaraj2006/react-express-authentication)
+
 - MstryMessage (Anonymous Messaging Project): [https://github.com/lakshyaraj2006/react-express-authentication](https://github.com/lakshyaraj2006/mstrymessage)
 
-## Learning:
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+- BitUrls (Url shortening Project): [https://github.com/lakshyaraj2006/biturls](https://github.com/lakshyaraj2006/biturls)
+
 
 ## My Skills
-- Databases: 
+### Languages
+<img src="https://skillicons.dev/icons?i=python,ts,js" />
 
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-  ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white)
+### Databases:
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,appwrite" />
 
-- CSS Frameworks
+### CSS Frameworks: 
+<img src="https://skillicons.dev/icons?i=bootstrap,tailwind" />
 
-  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
+### Frontend: 
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,astro" />
 
+### Backend:
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,php" />
 
-- Frontend:
+### Fullstack: 
+<img src="https://skillicons.dev/icons?i=nextjs,django,flask,php" />
 
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+### JavaScript Frameworks:
+<img src="https://skillicons.dev/icons?i=react,nextjs,astro" />
 
+### ORMs:
+<img src="https://skillicons.dev/icons?i=prisma" />
 
-- Backend:
+### Version Controls:
+<img src="https://skillicons.dev/icons?i=git,github" />
 
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+### Hosting:
+<img src="https://skillicons.dev/icons?i=netlify,vercel" />
 
-
-- JavaScript Frameworks:
-
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-
-- ORMs:
-
-  ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-
-- Version Controls:
-
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+### Others (used but not proefficient)
+<img src="https://skillicons.dev/icons?i=gcp,angular,redux,sentry,vite" />
 
 ## IDEs & OSs
-- IDEs:
+### IDEs: 
+<img src="https://skillicons.dev/icons?i=vscode,pycharm,anaconda,webstorm,phpstorm" />
 
-  ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
-
-- Operating Systems:
-
-  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+### Operating Systems:
+<img src="https://skillicons.dev/icons?i=windows,linux,ubuntu" />
 
 ## Connect With Me:
-<a href="https://www.instagram.com/codewithlaksh">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
-<a href="https://www.linkedin.com/in/lakshyaraj-dash-aa0076205/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://www.youtube.com/@codewithlaksh1850">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a>
-<a href="https://www.github.com/lakshyaraj2006">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a>
+<a href="https://www.instagram.com/codewithlaksh">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+</a>
+<a href="https://www.linkedin.com/in/lakshyaraj-dash-aa0076205/">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
+</a>
+<a href="https://www.youtube.com/@codewithlaksh1850">
+<img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube">
+</a>
+<a href="https://www.github.com/lakshyaraj2006">
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github" />
+</a>
