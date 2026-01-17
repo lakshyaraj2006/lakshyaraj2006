@@ -2,11 +2,7 @@
 
 ![Typing](https://readme-typing-svg.herokuapp.com?font=MonoLisa&letterSpacing=&duration=2000&pause=800&width=435&lines=Frontend+Developer;Backend+Developer;Fullstack+Web+Developer;NoSQL+and+SQL+Databases;Authentication+and+Authorization;Version+Control)
 
-![Lakshyaraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakshyaraj2006&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyaraj2006&layout=compact&theme=dark&languages=false)
-
-[![Lakshyaraj's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lakshyaraj2006&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lakshyaraj2006&theme=dark)](https://git.io/streak-stats)
 
 ## My Projects
 - iSecure (Full stack React Authentication): [https://github.com/lakshyaraj2006/react-express-authentication](https://github.com/lakshyaraj2006/react-express-authentication)
