@@ -2,8 +2,6 @@
 
 ![Typing](https://readme-typing-svg.herokuapp.com?font=MonoLisa&letterSpacing=&duration=2000&pause=800&width=435&lines=Frontend+Developer;Backend+Developer;Fullstack+Web+Developer;NoSQL+and+SQL+Databases;Authentication+and+Authorization;Version+Control)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=lakshyaraj2006&theme=onedark)](https://git.io/streak-stats)
-
 ## My Projects
 - iSecure (Full stack React Authentication): [https://github.com/lakshyaraj2006/react-express-authentication](https://github.com/lakshyaraj2006/react-express-authentication)
 
