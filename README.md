@@ -1,17 +1,16 @@
 ## Hi 👋 I’m Lakshyaraj Dash  
-### Full Stack Developer from India 🇮🇳
+**A passionate programmer & Full Stack Developer from India 🇮🇳**
 
 ![Typing](https://readme-typing-svg.herokuapp.com?font=MonoLisa&letterSpacing=&duration=2000&pause=800&width=435&lines=Frontend+Developer;Backend+Developer;Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Databases;Version+Control)
 
 ---
 
-🏆 **GitHub Trophies**
+## 📊 GitHub Stats
 
-![GitHub Trophy](https://github-profile-trophy-fork-two.vercel.app/?username=lakshyaraj2006&theme=light)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lakshyaraj2006)
+-----
 
----
-
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
 - 🔭 Currently working on **[StudyRoom](https://github.com/lakshyaraj2006/studyroom)**
 - 🌱 Learning **Angular** and **Data Science**
@@ -20,7 +19,7 @@
 - 📫 Reach me at **dashlakshyaraj2006@gmail.com**
 - 📄 Resume: **[View PDF](https://lakshyarajdash.vercel.app/docs/resume.pdf)**
 
----
+-----
 
 ### 🤝 Connect With Me
 
@@ -29,43 +28,66 @@
   <a href="https://linkedin.com/in/lakshyaraj-dash-aa0076205"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/16068133"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" /></a>
   <a href="https://instagram.com/codewithlaksh"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/codewithlaksh1850"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/@codewithlaksh1850"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/lakshyaraj2006"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
 </p>
 
----
+-----
 
-### 🛠️ Languages & Tools
+## 🛠️ Skills
 
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21~v2.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
-</p>
+**Learning & Interests**
+<img src="assets/angular-original.svg" width="30px">|<img src="assets/android-original.svg" width="30px">|<img src="assets/reactnative-original.svg" width="30px">|
+|-----|-----|----|
 
----
+**Languages**
+<img src="assets/javascript-original.svg" width="30px">|<img src="assets/python-original.svg" width="30px">|<img src="assets/typescript-original.svg" width="30px">|<img src="assets/c-original.svg" width="30px">|<img src="assets/cplusplus-original.svg" width="30px">|<img src="assets/java-original.svg" width="30px">|
+|-----|-----|-----|-----|-----|-----|
 
-### 📊 GitHub Stats
+**Frontend**
+<img src="assets/html5-original.svg" width="30px">|<img src="assets/css3-original.svg" width="30px">|<img src="assets/javascript-original.svg" width="30px">|<img src="assets/react-original.svg" width="30px">|
+|-----|-----|-----|-----|
 
-<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=lakshyaraj2006&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lakshyaraj2006&show_icons=true) -->
+**Backend**
+<img src="assets/nodejs-original.svg" width="30px">|<img src="assets/express-original.svg" width="30px">|
+|-----|-----|
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lakshyaraj2006)
+**Full Stack**
+<img src="assets/nextjs-original.svg" width="30px">|
+|-----|
+
+**Frameworks**
+<img src="assets/react-original.svg" width="30px">|<img src="assets/nextjs-original.svg" width="30px">|<img src="assets/flask-original.svg" width="30px">|<img src="assets/django-plain.svg" width="30px">|
+|-----|-----|-----|-----|
+
+**CSS Libraries**
+<img src="assets/bootstrap-original.svg" width="30px">|<img src="assets/tailwindcss-original.svg" width="30px">|
+|-----|-----|
+
+**Databases**
+<img src="assets/mongodb-original.svg" width="30px">|<img src="assets/mysql-original.svg" width="30px">|
+|-----|-----|
+
+**CMS**
+<img src="assets/appwrite-original.svg" width="30px">|
+|-----|
+
+**Version Control**
+<img src="assets/git-original.svg" width="30px">|
+|-----|
+
+-----
+
+## Tools, IDEs & Operating Systems
+
+**Tools**
+<img src="assets/gcc-original.svg" width="30px">|
+|-----|
+
+**IDEs**
+<img src="assets/anaconda-original.svg" width="30px">|<img src="assets/jupyter-original.svg" width="30px">|<img src="assets/intellij-original.svg" width="30px">|<img src="assets/pycharm-original.svg" width="30px">|<img src="assets/vscode-original.svg" width="30px">
+|-----|-----|-----|-----|-----|
+
+**Operating Systems**
+<img src="assets/windows11-original.svg" width="30px">|<img src="assets/ubuntu-original.svg" width="30px">|
+|-----|-----|
